@@ -11,19 +11,19 @@
 
 * Choice_Description: Lists the specific choices/modifications to the item in the order. For example, in line 4, choice_description specifies that the customer ordered an apple-flavored Nantucket Nectar. For items that do not have a specific choice, the value of this column is NULL.
 
-ii. How many orders do there appear to be?
+  1. How many orders do there appear to be?
 
 * 1834 	
 
-iii. How many lines are in the file? 
+  2. How many lines are in the file? 
 
 * 4623
 
-iv. Which burrito is more popular, steak or chicken?
+  3. Which burrito is more popular, steak or chicken?
 
 * Chicken 
 
-v. Do chicken burritos more often have black beans or pinto beans?
+  4. Do chicken burritos more often have black beans or pinto beans?
 
 * Black beans
 
